@@ -52,7 +52,7 @@ The dashboard is based on a hypothetical healthcare dataset, structured as follo
 
 ## Screenshots
 
-![Dashboard Overview]([./path-to-screenshot.png](https://github.com/PINKESH57/Healthcare_Dashboard_Reports/blob/main/Screenshot%202024-10-04%20161816.png))
+![Dashboard Overview]([(https://github.com/PINKESH57/Healthcare_Dashboard_Reports/blob/main/Screenshot%202024-10-04%20161816.png)]
 
 _Description of the screenshot: This image shows the main dashboard interface with key metrics and visualizations._
 
